@@ -1,0 +1,8 @@
+# 换成处理后的数据路径
+path: C:/Users/Mr.Zhang/Pictures/dataset/YOLODataset
+train: images/train
+val: images/val
+test:
+
+names:
+    0: fall
